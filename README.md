@@ -1,21 +1,25 @@
 # Woozzang's iOS Weblog
 
-[" Yeah, I Do Blog 😎"](https://woozzang.tistory.com)
+["I Do Blog 😎"](https://woozzang.tistory.com)
+
+
 
 
 # iOS
 
-## [🔸Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
+## 🔸[Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
 
 
 
-## [📱App](https://woozzang.tistory.com/category/iOS/🤖%20App)
+## 📱[App](https://woozzang.tistory.com/category/iOS/🤖%20App)
 
 * [[iOS] init?(coder:) 란](https://woozzang.tistory.com/112)
 
+* [[iOS] Frame 과 Bounds의 공통점과 차이점](https://woozzang.tistory.com/83)
 
+  
 
-## [🍎Documentation](https://woozzang.tistory.com/category/iOS/🍎%20Documentation)
+## 🍎[Documentation](https://woozzang.tistory.com/category/iOS/🍎%20Documentation)
 
 
 
