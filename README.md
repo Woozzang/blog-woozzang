@@ -10,6 +10,7 @@
 ## 🔸[Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
 
 * [[Swift] defer 문이란?](https://woozzang.tistory.com/119)
+* [[Swift] 셀렉터(Selector)란?](https://woozzang.tistory.com/120)
 
 
 ## 📱[App](https://woozzang.tistory.com/category/iOS/🤖%20App)
