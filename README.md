@@ -1,6 +1,6 @@
 # Woozzang's iOS Weblog
 
-["I Do Blog 😎"](https://woozzang.tistory.com)
+["I Do Blog 😎"](https://woozzang.tistory.com)</br>
 
 
 
@@ -10,7 +10,7 @@
 ## 🔸[Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
 
 * [[Swift] Enumeration 총정리](https://woozzang.tistory.com/92), [[Swift] CaseIterable 이란?](https://woozzang.tistory.com/98)
-* [[Swift] 프로토콜 총정리](https://woozzang.tistory.com/123)
+* [[Swift] 프로토콜 총정리](https://woozzang.tistory.com/123), [[iOS] Equatable 이란?](https://woozzang.tistory.com/57), [[iOS] Hashable 이란?]()
 * [[Swift] Autoclosure란?](https://woozzang.tistory.com/88) , [[Swift] 값을 캡처하는 클로저](https://woozzang.tistory.com/121)
 * [[Swift] defer 문이란?](https://woozzang.tistory.com/119)
 * [[Swift] 셀렉터(Selector)란?](https://woozzang.tistory.com/120)
@@ -28,6 +28,7 @@
 
 ## 🍎[Documentation](https://woozzang.tistory.com/category/iOS/🍎%20Documentation)
 
+* [[iOS] KVO 란? (Key Value Observing)](https://woozzang.tistory.com/124)
 
 
 # Computer Science
