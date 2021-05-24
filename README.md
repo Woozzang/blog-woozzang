@@ -34,6 +34,8 @@
 
 * [[iOS] NSCoding 이란? (feat. 인코딩, 디코딩, 아카이빙](https://woozzang.tistory.com/126)
 
+*[[iOS] Object Graphs 와 Archives, 그리고 Serialization](https://woozzang.tistory.com/128)
+
 # Computer Science
 
 ## Operating System 🖥
