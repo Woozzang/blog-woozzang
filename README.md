@@ -30,6 +30,9 @@
 
 * [[iOS] KVO 란? (Key Value Observing)](https://woozzang.tistory.com/124)
 
+* [[iOS] UserDefaults 란?](https://woozzang.tistory.com/125)
+
+* [[iOS] NSCoding 이란? (feat. 인코딩, 디코딩, 아카이빙](https://woozzang.tistory.com/126)
 
 # Computer Science
 
