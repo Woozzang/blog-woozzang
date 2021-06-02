@@ -11,7 +11,10 @@
 
 * [[Swift] Extension 총정리](https://woozzang.tistory.com/130)
 * [[Swift] Enumeration 총정리](https://woozzang.tistory.com/92), [[Swift] CaseIterable 이란?](https://woozzang.tistory.com/98)
-* [[Swift] 프로토콜 총정리](https://woozzang.tistory.com/123), [[iOS] Equatable 이란?](https://woozzang.tistory.com/57), [[iOS] Hashable 이란?]()
+* [[Swift] 프로토콜 총정리](https://woozzang.tistory.com/123), [[iOS] Equatable 이란?](https://woozzang.tistory.com/57)
+
+* [[iOS] Property Observer (속성감시자)란?](https://woozzang.tistory.com/22)
+
 * [[Swift] Autoclosure란?](https://woozzang.tistory.com/88) , [[Swift] 값을 캡처하는 클로저](https://woozzang.tistory.com/121)
 * [[Swift] defer 문이란?](https://woozzang.tistory.com/119)
 * [[Swift] 셀렉터(Selector)란?](https://woozzang.tistory.com/120)
