@@ -9,6 +9,8 @@
 
 ## 🔸[Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
 
+* [[iOS] 값타입과 참조타입 (Value Type vs Reference Type)](https://woozzang.tistory.com/22)
+
 * [[Swift] Extension 총정리](https://woozzang.tistory.com/130)
 * [[Swift] Enumeration 총정리](https://woozzang.tistory.com/92), [[Swift] CaseIterable 이란?](https://woozzang.tistory.com/98)
 * [[Swift] 프로토콜 총정리](https://woozzang.tistory.com/123), [[iOS] Equatable 이란?](https://woozzang.tistory.com/57)
