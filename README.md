@@ -30,9 +30,9 @@
 
 * [[iOS] Woking with JSON](https://woozzang.tistory.com/122)
 
-  
+* [[iOS] GCD (Grand Central Dispath) 란? (feat. main & global dispatch queue](https://woozzang.tistory.com/131) , [[iOS] DispatchQueue.main.sync { } 는 어떻게 작동할까?](https://woozzang.tistory.com/132)
 
-## 🍎[Documentation](https://woozzang.tistory.com/category/iOS/🍎%20Documentation)
+* 
 
 * [[iOS] KVO 란? (Key Value Observing)](https://woozzang.tistory.com/124)
 
