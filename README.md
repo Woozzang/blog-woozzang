@@ -27,6 +27,7 @@
 ## 📱[App](https://woozzang.tistory.com/category/iOS/🤖%20App)
 
 * [[iOS] About App Development with UIKit](https://woozzang.tistory.com/136)
+* [[iOS] Managing Your App's Life Cycle](https://woozzang.tistory.com/70)
 
 * [[iOS] init?(coder:) 란](https://woozzang.tistory.com/112)
 
