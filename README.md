@@ -26,6 +26,8 @@
 
 ## 📱[App](https://woozzang.tistory.com/category/iOS/🤖%20App)
 
+* [[iOS] Dependency Injection (의존성 주입) 이란?](https://woozzang.tistory.com/137)
+
 * [[iOS] About App Development with UIKit](https://woozzang.tistory.com/136)
 * [[iOS] Managing Your App's Life Cycle](https://woozzang.tistory.com/70)
 * [[iOS] Responding to the Launch of Your App](https://woozzang.tistory.com/72)
