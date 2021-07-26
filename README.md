@@ -7,31 +7,26 @@
 
 # iOS
 
-## 🔸[Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
-
-* [[Swift] 값타입과 참조타입 (Value Type vs Reference Type)](https://woozzang.tistory.com/22)
-
-* [[Swift] Extension 총정리](https://woozzang.tistory.com/130)
-* [[Swift] Enumeration 총정리](https://woozzang.tistory.com/92), [[Swift] CaseIterable 이란?](https://woozzang.tistory.com/98)
-* [[Swift] 프로토콜 총정리](https://woozzang.tistory.com/123), [[iOS] Equatable 이란?](https://woozzang.tistory.com/57)
-
-* [[Swift] Property Observer (속성감시자)란?](https://woozzang.tistory.com/22)
-
-* [[Swift] Autoclosure란?](https://woozzang.tistory.com/88) , [[Swift] 값을 캡처하는 클로저](https://woozzang.tistory.com/121)
-* [[Swift] defer 문이란?](https://woozzang.tistory.com/119)
-* [[Swift] 셀렉터(Selector)란?](https://woozzang.tistory.com/120)
-
-* [[Swift] self 는 어느 시점부터 사용할 수 있을까?](https://woozzang.tistory.com/33)
-
-
 ## 📱[App](https://woozzang.tistory.com/category/iOS/🤖%20App)
 
-* [[iOS] Dependency Injection (의존성 주입) 이란?](https://woozzang.tistory.com/137)
+### 🟢 Essential
+
+* [[iOS] Window 란? (feat.UIWindow)](https://woozzang.tistory.com/143)
+
+* [[iOS] Container View Controller란? (고민 많이 함🤔)](https://woozzang.tistory.com/145) 
 
 * [[iOS] About App Development with UIKit](https://woozzang.tistory.com/136)
 * [[iOS] Managing Your App's Life Cycle](https://woozzang.tistory.com/70)
 * [[iOS] Responding to the Launch of Your App](https://woozzang.tistory.com/72)
 * [[iOS] About the App Launch Sequence](https://woozzang.tistory.com/78)
+
+
+### 🟣 Architecture
+
+* [[iOS] Dependency Injection (의존성 주입) 이란?](https://woozzang.tistory.com/137)
+
+
+### 🔵 API
 
 * [[iOS] init?(coder:) 란](https://woozzang.tistory.com/112)
 
@@ -50,6 +45,29 @@
 * [[iOS] NSCoding 이란? (feat. 인코딩, 디코딩, 아카이빙)](https://woozzang.tistory.com/126), [[iOS] Coding Key 란?](https://woozzang.tistory.com/129)
 
 * [[iOS] Object Graphs 와 Archives, 그리고 Serialization](https://woozzang.tistory.com/128)
+
+#### - Core Animation
+* [[iOS] Core Animation 이란?](https://woozzang.tistory.com/141)
+* [[iOS] CALayer 란?](https://woozzang.tistory.com/140)
+
+
+## 🔸[Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
+
+* [[Swift] 값타입과 참조타입 (Value Type vs Reference Type)](https://woozzang.tistory.com/22)
+
+* [[Swift] Extension 총정리](https://woozzang.tistory.com/130)
+* [[Swift] Enumeration 총정리](https://woozzang.tistory.com/92), [[Swift] CaseIterable 이란?](https://woozzang.tistory.com/98)
+* [[Swift] 프로토콜 총정리](https://woozzang.tistory.com/123), [[iOS] Equatable 이란?](https://woozzang.tistory.com/57)
+
+* [[Swift] Property Observer (속성감시자)란?](https://woozzang.tistory.com/22)
+
+* [[Swift] Autoclosure란?](https://woozzang.tistory.com/88) , [[Swift] 값을 캡처하는 클로저](https://woozzang.tistory.com/121)
+* [[Swift] defer 문이란?](https://woozzang.tistory.com/119)
+* [[Swift] 셀렉터(Selector)란?](https://woozzang.tistory.com/120)
+
+* [[Swift] self 는 어느 시점부터 사용할 수 있을까?](https://woozzang.tistory.com/33)
+
+
 
 # Computer Science
 
