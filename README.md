@@ -72,25 +72,20 @@
 
 # Computer Science
 
-## Operating System 🖥
+## 도서 📖
+- 객체지향의 사실과 오해
+* [인터페이스와 공용인터페이스](https://woozzang.tistory.com/148)
+* [책임, 메시지, 그리고 인터페이스](https://woozzang.tistory.com/149)
+* [인터페이스와 구현의 분리](https://woozzang.tistory.com/150)
+
 
 
 
 ## Network 🕸
 
-- 5계층
-
-  
-
-- 4계층
-
   [하루 3분 네트워크 - 커넥션과 세그먼트](https://woozzang.tistory.com/110)
 
   [하루 3분 네트워크 - 윈도우 제어, 포트 번호](https://woozzang.tistory.com/111)
-
-  
-
-- 3계층
 
   [하루 3분 네트워크 - 3계층의 역할과 개요, 인터넷 프로토콜](https://woozzang.tistory.com/101)
 
