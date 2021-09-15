@@ -74,6 +74,7 @@
 
 ## 도서 📖
 ### 객체지향의 사실과 오해
+* [캡슐화](https://woozzang.tistory.com/153)
 * [인터페이스와 공용인터페이스](https://woozzang.tistory.com/148)
 * [책임, 메시지, 그리고 인터페이스](https://woozzang.tistory.com/149)
 * [인터페이스와 구현의 분리](https://woozzang.tistory.com/150)
