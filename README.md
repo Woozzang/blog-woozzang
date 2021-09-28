@@ -79,7 +79,8 @@
 * [책임, 메시지, 그리고 인터페이스](https://woozzang.tistory.com/149)
 * [인터페이스와 구현의 분리](https://woozzang.tistory.com/150)
 
-
+## Computer Architecture
+[ [컴퓨터 구조] 시스템 캐시란? (feat. L1, L2, A14Bioninc)](https://woozzang.tistory.com/155)
 
 
 ## Network 🕸
