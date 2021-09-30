@@ -13,7 +13,7 @@
 
 * [[iOS] Window 란? (feat.UIWindow)](https://woozzang.tistory.com/143)
 
-* [[iOS] Container View Controller란? (고민 많이 함🤔)](https://woozzang.tistory.com/145) 
+* [[iOS] Container View Controller란?)](https://woozzang.tistory.com/145) 
 
 * [[iOS] About App Development with UIKit](https://woozzang.tistory.com/136)
 * [[iOS] Managing Your App's Life Cycle](https://woozzang.tistory.com/70)
