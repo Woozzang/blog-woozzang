@@ -55,6 +55,7 @@
 ## 🔸[Swift](https://woozzang.tistory.com/category/iOS/🟠%20Swift)
 
 * [[Swift] @main 과 커스텀 엔트리 포인트](https://woozzang.tistory.com/52)
+*[[Swift] Metatype이란?](https://woozzang.tistory.com/160)
 
 * [[Swift] 값타입과 참조타입 (Value Type vs Reference Type)](https://woozzang.tistory.com/22)
 
