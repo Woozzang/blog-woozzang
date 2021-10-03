@@ -71,7 +71,7 @@
 
 * [[Swift] self 는 어느 시점부터 사용할 수 있을까?](https://woozzang.tistory.com/33)
 
-
+*[[Xcode] 앱 번들 찾기](https://woozzang.tistory.com/159)]
 
 # Computer Science
 
